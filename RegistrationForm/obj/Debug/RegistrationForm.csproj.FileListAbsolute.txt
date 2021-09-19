@@ -1,0 +1,5 @@
+C:\Users\hp\Desktop\afsana\RegistrationForm\obj\Debug\RegistrationForm.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\afsana\RegistrationForm\obj\Debug\RegistrationForm.Form1.resources
+C:\Users\hp\Desktop\afsana\RegistrationForm\obj\Debug\RegistrationForm.Properties.Resources.resources
+C:\Users\hp\Desktop\afsana\RegistrationForm\obj\Debug\RegistrationForm.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\afsana\RegistrationForm\obj\Debug\RegistrationForm.csproj.CoreCompileInputs.cache
